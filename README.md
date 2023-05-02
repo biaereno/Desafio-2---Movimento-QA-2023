@@ -53,10 +53,10 @@ Caso o usuário tenha a permissão de aprovar as solicitações ao visualizar um
 
 Depois de uma solicitação ser aprovada ela pode ser impressa, então ao visualizar a solicitação irá apresentar um botão para impressão.
 
-![](Aspose.Words.e28d783e-6bb3-44a1-be25-9d81edc6d1e4.001.jpeg)
+![](001.jpeg)
 
-![](Aspose.Words.e28d783e-6bb3-44a1-be25-9d81edc6d1e4.002.jpeg)
+![](002.jpeg)
 
-![](Aspose.Words.e28d783e-6bb3-44a1-be25-9d81edc6d1e4.003.jpeg)
+![](003.jpeg)
 
-![](Aspose.Words.e28d783e-6bb3-44a1-be25-9d81edc6d1e4.004.jpeg)
+![](004.jpeg)
